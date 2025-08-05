@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab1069\\Desktop\\babidi\\Bonitinho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BC9DB7-7EAC-4638-BB50-91EA0CFA03B3}|Bonitinho\\Bonitinho.csproj|c:\\users\\lab1069\\desktop\\babidi\\bonitinho\\bonitinho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BC9DB7-7EAC-4638-BB50-91EA0CFA03B3}|Bonitinho\\Bonitinho.csproj|solutionrelative:bonitinho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab1069\\Desktop\\babidi\\Bonitinho\\Bonitinho\\Program.cs",
+              "RelativeDocumentMoniker": "Bonitinho\\Program.cs",
+              "ToolTip": "C:\\Users\\lab1069\\Desktop\\babidi\\Bonitinho\\Bonitinho\\Program.cs",
+              "RelativeToolTip": "Bonitinho\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:35:45.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
