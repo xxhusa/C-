@@ -6,3 +6,10 @@ C:\Users\lab1069\Desktop\babidi\Bonitinho\Bonitinho\obj\Debug\Bonitinho.csproj.C
 C:\Users\lab1069\Desktop\babidi\Bonitinho\Bonitinho\obj\Debug\Bonitinho.exe
 C:\Users\lab1069\Desktop\babidi\Bonitinho\Bonitinho\obj\Debug\Bonitinho.pdb
 C:\Users\lab1069\Desktop\babidi\Bonitinho\Bonitinho\obj\Debug\Bonitinho.exe.config
+C:\Users\lab1069\Desktop\C-\babidi\Bonitinho\Bonitinho\obj\Debug\Bonitinho.csproj.AssemblyReference.cache
+C:\Users\lab1069\Desktop\C-\babidi\Bonitinho\Bonitinho\obj\Debug\Bonitinho.csproj.CoreCompileInputs.cache
+C:\Users\lab1069\Desktop\C-\babidi\Bonitinho\Bonitinho\bin\Debug\Bonitinho.exe.config
+C:\Users\lab1069\Desktop\C-\babidi\Bonitinho\Bonitinho\bin\Debug\Bonitinho.exe
+C:\Users\lab1069\Desktop\C-\babidi\Bonitinho\Bonitinho\bin\Debug\Bonitinho.pdb
+C:\Users\lab1069\Desktop\C-\babidi\Bonitinho\Bonitinho\obj\Debug\Bonitinho.exe
+C:\Users\lab1069\Desktop\C-\babidi\Bonitinho\Bonitinho\obj\Debug\Bonitinho.pdb
