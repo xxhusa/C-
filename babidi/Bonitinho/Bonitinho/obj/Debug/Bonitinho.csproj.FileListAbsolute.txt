@@ -13,3 +13,4 @@ C:\Users\lab1069\Desktop\C-\babidi\Bonitinho\Bonitinho\bin\Debug\Bonitinho.exe
 C:\Users\lab1069\Desktop\C-\babidi\Bonitinho\Bonitinho\bin\Debug\Bonitinho.pdb
 C:\Users\lab1069\Desktop\C-\babidi\Bonitinho\Bonitinho\obj\Debug\Bonitinho.exe
 C:\Users\lab1069\Desktop\C-\babidi\Bonitinho\Bonitinho\obj\Debug\Bonitinho.pdb
+C:\Users\lab1069\Desktop\C-\babidi\Bonitinho\Bonitinho\obj\Debug\Bonitinho.exe.config
