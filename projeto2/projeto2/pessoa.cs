@@ -9,8 +9,13 @@ namespace projeto2
     class pessoa
     {
         public string nome;
-        public string email;
+        public string cpf;
+        public string rg;
+        public string endereco;
+        public string estadocivil;
         public string telefone;
+
+
 
         public void cadastrar() {
 

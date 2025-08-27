@@ -11,21 +11,30 @@ namespace projeto2
         static void Main(string[] args)
         {
 
-            pessoa objJogador;
-            pessoa camisa10;
-            pessoa camisa7;
+            //pessoa objJogador;
+            //pessoa camisa10;
+            //pessoa camisa7;
+            pessoa p = new pessoa();
+            funcionario f = new funcionario();
+            f.nome = "Nome";
+            f.salario = 1000.00;
+            p.
 
-            objJogador = new pessoa();
-            camisa10 = new pessoa();
-            camisa7 = new pessoa();
 
-            objJogador.cadastrar();
-            camisa10.cadastrar();
-            camisa7.cadastrar();
 
-            objJogador.Exibir();
-            camisa10.Exibir();
-            camisa7.Exibir();
+            //objJogador = new pessoa();
+            //camisa10 = new pessoa();
+            //camisa7 = new pessoa();
+
+            //objJogador.cadastrar();
+            //camisa10.cadastrar();
+            //camisa7.cadastrar();
+
+            //objJogador.Exibir();
+            //camisa10.Exibir();
+            //camisa7.Exibir();
+
+
 
             
 
